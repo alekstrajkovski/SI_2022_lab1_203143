@@ -1,0 +1,79 @@
+$ git log
+commit c5eff7471eaf065da1a59330c35709400efb1bbe (HEAD -> master, branch2, branch1)
+Author: alekstrajkovski <stefanpersinnn@gmail.com>
+Date:   Wed Mar 23 10:14:43 2022 +0100
+
+    Add quantites to the items
+
+commit 6fb93606991576ea5717e5331aeaca947ef775bc
+Author: alekstrajkovski <stefanpersinnn@gmail.com>
+Date:   Wed Mar 23 10:13:59 2022 +0100
+
+    Add 5 items to the shopping list
+
+commit 8cf32497ddbfdc6927c7c2c2469009b4734e90d7 (origin/master, origin/HEAD)
+Author: alekstrajkovski <100590098+alekstrajkovski@users.noreply.github.com>
+Date:   Wed Mar 23 10:10:21 2022 +0100
+
+    Initial commit
+
+
+=======================================================================================
+
+$ git log
+commit 4b8ff81a53ed011c8e8427f09f9b4ee68e912717 (HEAD -> branch2)
+Author: alekstrajkovski <stefanpersinnn@gmail.com>
+Date:   Wed Mar 23 10:19:34 2022 +0100
+
+    Modify item #4
+
+commit c5eff7471eaf065da1a59330c35709400efb1bbe (origin/branch2)
+Author: alekstrajkovski <stefanpersinnn@gmail.com>
+Date:   Wed Mar 23 10:14:43 2022 +0100
+
+    Add quantites to the items
+
+commit 6fb93606991576ea5717e5331aeaca947ef775bc
+Author: alekstrajkovski <stefanpersinnn@gmail.com>
+Date:   Wed Mar 23 10:13:59 2022 +0100
+
+    Add 5 items to the shopping list
+
+commit 8cf32497ddbfdc6927c7c2c2469009b4734e90d7
+Author: alekstrajkovski <100590098+alekstrajkovski@users.noreply.github.com>
+Date:   Wed Mar 23 10:10:21 2022 +0100
+
+    Initial commit
+
+
+
+======================================================================================
+
+$ git log
+commit 8842eb54053561fdc5ebfe184ad97783cc48b4d0 (HEAD -> branch2)
+Author: alekstrajkovski <stefanpersinnn@gmail.com>
+Date:   Wed Mar 23 10:27:13 2022 +0100
+
+    Modify item #4 and add item #6
+
+commit c5eff7471eaf065da1a59330c35709400efb1bbe (origin/branch2)
+Author: alekstrajkovski <stefanpersinnn@gmail.com>
+Date:   Wed Mar 23 10:14:43 2022 +0100
+
+    Add quantites to the items
+
+commit 6fb93606991576ea5717e5331aeaca947ef775bc
+Author: alekstrajkovski <stefanpersinnn@gmail.com>
+Date:   Wed Mar 23 10:13:59 2022 +0100
+
+    Add 5 items to the shopping list
+
+commit 8cf32497ddbfdc6927c7c2c2469009b4734e90d7
+Author: alekstrajkovski <100590098+alekstrajkovski@users.noreply.github.com>
+Date:   Wed Mar 23 10:10:21 2022 +0100
+
+    Initial commit
+
+
+
+

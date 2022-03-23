@@ -1,5 +1,6 @@
 casa x 2 
 masa x 3
 stol x 4
-telefon x 5
+IPHONE x 5
 laptop x 6
+slusalki x 2

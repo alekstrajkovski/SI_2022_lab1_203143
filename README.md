@@ -1,1 +1,1 @@
-# SI_2022_lab1_203143
+Aleksandar Trajkovski 203143

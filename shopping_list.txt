@@ -1,5 +1,5 @@
 casa x 2 
-masa x 3
+masa x 300
 stol x 4
 telefon x 5
 laptop x 6

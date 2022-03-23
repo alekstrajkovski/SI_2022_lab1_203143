@@ -1,0 +1,5 @@
+casa
+masa
+stol
+telefon
+laptop

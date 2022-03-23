@@ -3,3 +3,5 @@ masa x 300
 stol x 4
 telefon x 5
 laptop x 600
+slusalki x 2
+
